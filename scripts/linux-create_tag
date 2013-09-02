@@ -1,0 +1,43 @@
+#!/bin/bash
+
+version_major=0
+version_minor=16
+version_patch=0
+
+projects="
+applications
+cmake-modules
+common
+contrib
+debian
+documentation
+externals
+kernel
+modules
+openvibe
+plugins
+scripts
+test
+toolkit
+"
+
+standalones="
+AUTHORS
+CMakeLists.txt
+COPYING
+INSTALL
+README
+"
+
+mkdir "../../tags/$version_major.$version_minor.$version_patch"
+svn add "../../tags/$version_major.$version_minor.$version_patch"
+svn commit "../../tags/$version_major.$version_minor.$version_patch" -m ""
+
+for project in $projects ; do
+	svn cp "../$project" "../../tags/$version_major.$version_minor.$version_patch/"
+done;
+
+for standalone in $standalones ; do
+	svn cp "../$standalone" "../../tags/$version_major.$version_minor.$version_patch/"
+done;
+

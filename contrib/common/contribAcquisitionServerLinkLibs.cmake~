@@ -1,0 +1,6 @@
+INCLUDE("FindThirdPartyBrainmasterCodeMakerAPI")
+INCLUDE("FindThirdPartyActiCHampAPI")
+INCLUDE("FindThirdPartyGUSBampCAPI")
+ADD_DEFINITIONS(-DTARGET_HAS_ThirdPartyEmokit)
+target_link_libraries (${PROJECT_NAME} /usr/local/lib/libemokit.a)
+

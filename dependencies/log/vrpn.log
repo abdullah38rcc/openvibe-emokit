@@ -1,0 +1,1215 @@
+--2013-08-24 13:29:02--  http://openvibe.inria.fr/dependencies/linux-x86/vrpn_07_26.zip
+Resolving openvibe.inria.fr (openvibe.inria.fr)... 131.254.254.164, 2001:660:7303:254::164
+Connecting to openvibe.inria.fr (openvibe.inria.fr)|131.254.254.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1423803 (1.4M) [application/zip]
+Saving to: '/home/tom/Packages/openvibe-0.16.1-svn3780-src/scripts/../dependencies/arch/vrpn_07_26.zip.tmp’
+
+     0K .......... .......... .......... .......... ..........  3% 21.2K 63s
+    50K .......... .......... .......... .......... ..........  7% 92.4K 37s
+   100K .......... .......... .......... .......... .......... 10% 94.7K 28s
+   150K .......... .......... .......... .......... .......... 14% 56.9K 26s
+   200K .......... .......... .......... .......... .......... 17% 54.2K 24s
+   250K .......... .......... .......... .......... .......... 21%  110K 21s
+   300K .......... .......... .......... .......... .......... 25% 56.7K 20s
+   350K .......... .......... .......... .......... .......... 28%  108K 17s
+   400K .......... .......... .......... .......... .......... 32%  102K 16s
+   450K .......... .......... .......... .......... .......... 35% 97.1K 14s
+   500K .......... .......... .......... .......... .......... 39% 38.1K 14s
+   550K .......... .......... .......... .......... .......... 43% 45.2K 14s
+   600K .......... .......... .......... .......... .......... 46% 54.7K 13s
+   650K .......... .......... .......... .......... .......... 50%  118K 12s
+   700K .......... .......... .......... .......... .......... 53% 96.4K 11s
+   750K .......... .......... .......... .......... .......... 57% 38.2K 10s
+   800K .......... .......... .......... .......... .......... 61% 61.0K 9s
+   850K .......... .......... .......... .......... .......... 64% 27.1K 9s
+   900K .......... .......... .......... .......... .......... 68%  113K 8s
+   950K .......... .......... .......... .......... .......... 71% 50.1K 7s
+  1000K .......... .......... .......... .......... .......... 75% 54.3K 6s
+  1050K .......... .......... .......... .......... .......... 79% 95.4K 5s
+  1100K .......... .......... .......... .......... .......... 82%  118K 4s
+  1150K .......... .......... .......... .......... .......... 86%  112K 3s
+  1200K .......... .......... .......... .......... .......... 89%  106K 2s
+  1250K .......... .......... .......... .......... .......... 93% 50.2K 1s
+  1300K .......... .......... .......... .......... .......... 97% 60.6K 1s
+  1350K .......... .......... .......... ..........           100% 43.8K=23s
+
+2013-08-24 13:29:26 (59.8 KB/s) - '/home/tom/Packages/openvibe-0.16.1-svn3780-src/scripts/../dependencies/arch/vrpn_07_26.zip.tmp’ saved [1423803/1423803]
+
+Archive:  /home/tom/Packages/openvibe-0.16.1-svn3780-src/scripts/../dependencies/arch/vrpn_07_26.zip
+   creating: vrpn/
+   creating: vrpn/CVS/
+ extracting: vrpn/CVS/Root           
+ extracting: vrpn/CVS/Repository     
+  inflating: vrpn/CVS/Entries        
+  inflating: vrpn/.cvsignore         
+  inflating: vrpn/ChangeLog          
+  inflating: vrpn/Format             
+  inflating: vrpn/Makefile           
+  inflating: vrpn/README             
+  inflating: vrpn/README.Compiling   
+  inflating: vrpn/README.Legal       
+  inflating: vrpn/make_vrpn_libs_build.dsp  
+  inflating: vrpn/make_vrpn_libs_build.vcproj  
+  inflating: vrpn/time_test.cpp      
+  inflating: vrpn/time_test.dsp      
+  inflating: vrpn/time_test.vcproj   
+  inflating: vrpn/vrpn.dsp           
+  inflating: vrpn/vrpn.dsw           
+  inflating: vrpn/vrpn.sln           
+  inflating: vrpn/vrpn.vcproj        
+  inflating: vrpn/vrpn_3DConnexion.C  
+  inflating: vrpn/vrpn_3DConnexion.h  
+  inflating: vrpn/vrpn_3DMicroscribe.C  
+  inflating: vrpn/vrpn_3DMicroscribe.h  
+  inflating: vrpn/vrpn_3Space.C      
+  inflating: vrpn/vrpn_3Space.h      
+  inflating: vrpn/vrpn_5DT16.C       
+  inflating: vrpn/vrpn_5DT16.h       
+  inflating: vrpn/vrpn_ADBox.C       
+  inflating: vrpn/vrpn_ADBox.h       
+  inflating: vrpn/vrpn_Analog.C      
+  inflating: vrpn/vrpn_Analog.h      
+  inflating: vrpn/vrpn_Analog_5dt.C  
+  inflating: vrpn/vrpn_Analog_5dt.h  
+  inflating: vrpn/vrpn_Analog_Output.C  
+  inflating: vrpn/vrpn_Analog_Output.h  
+  inflating: vrpn/vrpn_Analog_Radamec_SPI.C  
+  inflating: vrpn/vrpn_Atmel.C       
+  inflating: vrpn/vrpn_Analog_Radamec_SPI.h  
+  inflating: vrpn/vrpn_Analog_USDigital_A2.C  
+  inflating: vrpn/vrpn_Analog_USDigital_A2.h  
+  inflating: vrpn/vrpn_Atmel.h       
+  inflating: vrpn/vrpn_Auxiliary_Logger.C  
+  inflating: vrpn/vrpn_Auxiliary_Logger.h  
+  inflating: vrpn/vrpn_BaseClass.C   
+  inflating: vrpn/vrpn_BaseClass.h   
+  inflating: vrpn/vrpn_Button.C      
+  inflating: vrpn/vrpn_Button.h      
+  inflating: vrpn/vrpn_Button_NI_DIO24.C  
+  inflating: vrpn/vrpn_Button_NI_DIO24.h  
+  inflating: vrpn/vrpn_Button_USB.cpp  
+  inflating: vrpn/vrpn_Button_USB.h  
+  inflating: vrpn/vrpn_CerealBox.C   
+  inflating: vrpn/vrpn_CerealBox.h   
+  inflating: vrpn/vrpn_Configure.h   
+  inflating: vrpn/vrpn_Configure.h.cmake_in  
+  inflating: vrpn/vrpn_Connection.h  
+  inflating: vrpn/vrpn_ConnectionTypes.h  
+  inflating: vrpn/vrpn_Dial.C        
+  inflating: vrpn/vrpn_Dial.h        
+  inflating: vrpn/vrpn_DirectXFFJoystick.C  
+  inflating: vrpn/vrpn_DirectXFFJoystick.h  
+  inflating: vrpn/vrpn_DirectXRumblePad.C  
+  inflating: vrpn/vrpn_DirectXRumblePad.h  
+  inflating: vrpn/vrpn_Dyna.C        
+  inflating: vrpn/vrpn_Dyna.h        
+  inflating: vrpn/vrpn_Event.C       
+  inflating: vrpn/vrpn_Event.h       
+  inflating: vrpn/vrpn_Event_Analog.C  
+  inflating: vrpn/vrpn_Event_Analog.h  
+  inflating: vrpn/vrpn_Event_Mouse.C  
+  inflating: vrpn/vrpn_Event_Mouse.h  
+  inflating: vrpn/vrpn_FileConnection.C  
+  inflating: vrpn/vrpn_FileConnection.h  
+  inflating: vrpn/vrpn_FileController.C  
+  inflating: vrpn/vrpn_FileController.h  
+  inflating: vrpn/vrpn_Flock.C       
+  inflating: vrpn/vrpn_Flock.h       
+  inflating: vrpn/vrpn_Flock_Parallel.C  
+  inflating: vrpn/vrpn_Flock_Parallel.h  
+  inflating: vrpn/vrpn_ForceDevice.C  
+  inflating: vrpn/vrpn_ForceDevice.h  
+  inflating: vrpn/vrpn_ForceDeviceServer.C  
+  inflating: vrpn/vrpn_ForceDeviceServer.h  
+  inflating: vrpn/vrpn_Forwarder.C   
+  inflating: vrpn/vrpn_Forwarder.h   
+  inflating: vrpn/vrpn_ForwarderController.C  
+  inflating: vrpn/vrpn_ForwarderController.h  
+  inflating: vrpn/vrpn_Freespace.C   
+  inflating: vrpn/vrpn_Freespace.h   
+  inflating: vrpn/vrpn_FunctionGenerator.C  
+  inflating: vrpn/vrpn_FunctionGenerator.h  
+  inflating: vrpn/vrpn_GlobalHapticsOrb.C  
+  inflating: vrpn/vrpn_GlobalHapticsOrb.h  
+  inflating: vrpn/vrpn_HashST.h      
+  inflating: vrpn/vrpn_HumanInterface.C  
+  inflating: vrpn/vrpn_HumanInterface.h  
+  inflating: vrpn/vrpn_Imager.C      
+  inflating: vrpn/vrpn_Imager.h      
+  inflating: vrpn/vrpn_Imager_Stream_Buffer.C  
+  inflating: vrpn/vrpn_Imager_Stream_Buffer.h  
+  inflating: vrpn/vrpn_ImmersionBox.C  
+  inflating: vrpn/vrpn_ImmersionBox.h  
+  inflating: vrpn/vrpn_JoyFly.C      
+  inflating: vrpn/vrpn_JoyFly.h      
+  inflating: vrpn/vrpn_Joylin.C      
+  inflating: vrpn/vrpn_Joylin.h      
+  inflating: vrpn/vrpn_Joywin32.C    
+  inflating: vrpn/vrpn_Joywin32.h    
+  inflating: vrpn/vrpn_Keyboard.C    
+  inflating: vrpn/vrpn_Keyboard.h    
+  inflating: vrpn/vrpn_LamportClock.C  
+  inflating: vrpn/vrpn_LamportClock.h  
+  inflating: vrpn/vrpn_Log.h         
+  inflating: vrpn/vrpn_Magellan.C    
+  inflating: vrpn/vrpn_Magellan.h    
+  inflating: vrpn/vrpn_Mouse.C       
+  inflating: vrpn/vrpn_Mouse.h       
+  inflating: vrpn/vrpn_Mutex.C       
+  inflating: vrpn/vrpn_Mutex.h       
+  inflating: vrpn/vrpn_NationalInstruments.C  
+  inflating: vrpn/vrpn_NationalInstruments.h  
+  inflating: vrpn/vrpn_Nidaq.C       
+  inflating: vrpn/vrpn_Nidaq.h       
+  inflating: vrpn/vrpn_Poser.C       
+  inflating: vrpn/vrpn_Poser.h       
+  inflating: vrpn/vrpn_Poser_Analog.C  
+  inflating: vrpn/vrpn_Poser_Analog.h  
+  inflating: vrpn/vrpn_Poser_Tek4662.C  
+  inflating: vrpn/vrpn_Poser_Tek4662.h  
+  inflating: vrpn/vrpn_RedundantTransmission.C  
+  inflating: vrpn/vrpn_RedundantTransmission.h  
+  inflating: vrpn/vrpn_Serial.C      
+  inflating: vrpn/vrpn_Serial.h      
+  inflating: vrpn/vrpn_Shared.C      
+  inflating: vrpn/vrpn_Shared.h      
+  inflating: vrpn/vrpn_SharedObject.C  
+  inflating: vrpn/vrpn_SharedObject.h  
+  inflating: vrpn/vrpn_Sound.C       
+  inflating: vrpn/vrpn_Sound.h       
+  inflating: vrpn/vrpn_Spaceball.C   
+  inflating: vrpn/vrpn_Spaceball.h   
+  inflating: vrpn/vrpn_Text.C        
+  inflating: vrpn/vrpn_Text.h        
+  inflating: vrpn/vrpn_Tng3.C        
+  inflating: vrpn/vrpn_Tng3.h        
+  inflating: vrpn/vrpn_Tracker.C     
+  inflating: vrpn/vrpn_Tracker.h     
+  inflating: vrpn/vrpn_Tracker_3DMouse.C  
+  inflating: vrpn/vrpn_Tracker_3DMouse.h  
+  inflating: vrpn/vrpn_Tracker_AnalogFly.C  
+  inflating: vrpn/vrpn_Tracker_AnalogFly.h  
+  inflating: vrpn/vrpn_Tracker_ButtonFly.C  
+  inflating: vrpn/vrpn_Tracker_ButtonFly.h  
+  inflating: vrpn/vrpn_Tracker_Crossbow.C  
+  inflating: vrpn/vrpn_Tracker_Crossbow.h  
+  inflating: vrpn/vrpn_Tracker_DTrack.C  
+  inflating: vrpn/vrpn_Tracker_DTrack.h  
+  inflating: vrpn/vrpn_Tracker_Fastrak.C  
+  inflating: vrpn/vrpn_Tracker_Fastrak.h  
+  inflating: vrpn/vrpn_Tracker_Isotrak.C  
+  inflating: vrpn/vrpn_Tracker_Isotrak.h  
+  inflating: vrpn/vrpn_Tracker_Liberty.C  
+  inflating: vrpn/vrpn_Tracker_Liberty.h  
+  inflating: vrpn/vrpn_Tracker_MotionNode.C  
+  inflating: vrpn/vrpn_Tracker_MotionNode.h  
+  inflating: vrpn/vrpn_Tracker_NDI_Polaris.C  
+  inflating: vrpn/vrpn_Tracker_NDI_Polaris.h  
+  inflating: vrpn/vrpn_Tracker_PhaseSpace.C  
+  inflating: vrpn/vrpn_Tracker_PhaseSpace.h  
+  inflating: vrpn/vrpn_Tracker_isense.C  
+  inflating: vrpn/vrpn_Tracker_isense.h  
+  inflating: vrpn/vrpn_Types.h       
+  inflating: vrpn/vrpn_UNC_Joystick.C  
+  inflating: vrpn/vrpn_UNC_Joystick.h  
+  inflating: vrpn/vrpn_VPJoystick.C  
+  inflating: vrpn/vrpn_VPJoystick.h  
+  inflating: vrpn/vrpn_Wanda.C       
+  inflating: vrpn/vrpn_Wanda.h       
+  inflating: vrpn/vrpn_WiiMote.C     
+  inflating: vrpn/vrpn_WiiMote.h     
+  inflating: vrpn/vrpn_XInputGamepad.C  
+  inflating: vrpn/vrpn_XInputGamepad.h  
+  inflating: vrpn/vrpn_Xkeys.C       
+  inflating: vrpn/vrpn_Xkeys.h       
+  inflating: vrpn/vrpn_Zaber.C       
+  inflating: vrpn/vrpn_Zaber.h       
+  inflating: vrpn/vrpn_inertiamouse.C  
+  inflating: vrpn/vrpn_inertiamouse.h  
+  inflating: vrpn/vrpn_nikon_controls.C  
+  inflating: vrpn/vrpn_nikon_controls.h  
+  inflating: vrpn/vrpn_raw_sgibox.C  
+  inflating: vrpn/vrpn_raw_sgibox.h  
+  inflating: vrpn/vrpn_sgibox.C      
+  inflating: vrpn/vrpn_sgibox.h      
+  inflating: vrpn/vrpndll.dsp        
+  inflating: vrpn/vrpndll.vcproj     
+   creating: vrpn/atmellib/
+   creating: vrpn/atmellib/CVS/
+ extracting: vrpn/atmellib/CVS/Root  
+ extracting: vrpn/atmellib/CVS/Repository  
+  inflating: vrpn/atmellib/CVS/Entries  
+  inflating: vrpn/atmellib/CMakeLists.txt  
+  inflating: vrpn/atmellib/vrpn_atmellib.h  
+  inflating: vrpn/atmellib/vrpn_atmellib_errno.h  
+  inflating: vrpn/atmellib/vrpn_atmellib_helper.C  
+  inflating: vrpn/atmellib/vrpn_atmellib_helper.h  
+  inflating: vrpn/atmellib/vrpn_atmellib_iobasic.C  
+  inflating: vrpn/atmellib/vrpn_atmellib_openclose.C  
+  inflating: vrpn/atmellib/vrpn_atmellib_register.C  
+  inflating: vrpn/atmellib/vrpn_atmellib_tester.C  
+   creating: vrpn/client_src/
+   creating: vrpn/client_src/CVS/
+ extracting: vrpn/client_src/CVS/Root  
+ extracting: vrpn/client_src/CVS/Repository  
+  inflating: vrpn/client_src/CVS/Entries  
+  inflating: vrpn/client_src/.cvsignore  
+  inflating: vrpn/client_src/CMakeLists.txt  
+  inflating: vrpn/client_src/ChangeLog  
+  inflating: vrpn/client_src/Makefile  
+  inflating: vrpn/client_src/README  
+  inflating: vrpn/client_src/add_vrpn_cookie.C  
+  inflating: vrpn/client_src/bdbox_client.C  
+  inflating: vrpn/client_src/c_interface.cpp  
+  inflating: vrpn/client_src/c_interface.h  
+  inflating: vrpn/client_src/c_interface_example.c  
+  inflating: vrpn/client_src/checklogfile.c  
+  inflating: vrpn/client_src/clock_drift_estimator.C  
+  inflating: vrpn/client_src/clock_drift_estimator.dsp  
+  inflating: vrpn/client_src/clock_drift_estimator.vcproj  
+  inflating: vrpn/client_src/ff_client.C  
+  inflating: vrpn/client_src/forcedevice_test_client.cpp  
+  inflating: vrpn/client_src/forcedevice_test_client.dsp  
+  inflating: vrpn/client_src/forcedevice_test_client.vcproj  
+  inflating: vrpn/client_src/forwarderClient.C  
+  inflating: vrpn/client_src/logfilesenders.c  
+  inflating: vrpn/client_src/logfiletypes.c  
+  inflating: vrpn/client_src/midi_client.c  
+  inflating: vrpn/client_src/ohm_client.C  
+  inflating: vrpn/client_src/phan_client.C  
+  inflating: vrpn/client_src/printcereal.C  
+  inflating: vrpn/client_src/printcereal.dsp  
+  inflating: vrpn/client_src/printcereal.vcproj  
+  inflating: vrpn/client_src/printvals.c  
+  inflating: vrpn/client_src/printvals.dsp  
+  inflating: vrpn/client_src/printvals.vcproj  
+  inflating: vrpn/client_src/run_auxiliary_logger.C  
+  inflating: vrpn/client_src/run_auxiliary_logger.dsp  
+  inflating: vrpn/client_src/run_auxiliary_logger.vcproj  
+  inflating: vrpn/client_src/sound_client.c  
+  inflating: vrpn/client_src/sound_client.old  
+  inflating: vrpn/client_src/sphere_client.C  
+  inflating: vrpn/client_src/sphere_client.dsp  
+  inflating: vrpn/client_src/sphere_client.vcproj  
+  inflating: vrpn/client_src/testSharedObject.C  
+  inflating: vrpn/client_src/test_Zaber.C  
+  inflating: vrpn/client_src/test_imager.C  
+  inflating: vrpn/client_src/test_imager.dsp  
+  inflating: vrpn/client_src/test_imager.vcproj  
+  inflating: vrpn/client_src/test_mutex.C  
+  inflating: vrpn/client_src/test_zaber.dsp  
+  inflating: vrpn/client_src/test_zaber.vcproj  
+  inflating: vrpn/client_src/testimager_client.C  
+  inflating: vrpn/client_src/testimager_client.dsp  
+  inflating: vrpn/client_src/testimager_client.vcproj  
+  inflating: vrpn/client_src/text.C  
+  inflating: vrpn/client_src/tracker_to_poser.cpp  
+  inflating: vrpn/client_src/tracker_to_poser.dsp  
+  inflating: vrpn/client_src/tracker_to_poser.vcproj  
+  inflating: vrpn/client_src/vrpn_LamportClock.t.C  
+  inflating: vrpn/client_src/vrpn_ping.C  
+  inflating: vrpn/client_src/vrpn_print_devices.C  
+  inflating: vrpn/client_src/vrpn_print_devices.dsp  
+  inflating: vrpn/client_src/vrpn_print_devices.vcproj  
+  inflating: vrpn/client_src/vrpn_print_messages.C  
+   creating: vrpn/client_src/directx_sound_client/
+   creating: vrpn/client_src/directx_sound_client/CVS/
+ extracting: vrpn/client_src/directx_sound_client/CVS/Root  
+  inflating: vrpn/client_src/directx_sound_client/CVS/Repository  
+  inflating: vrpn/client_src/directx_sound_client/CVS/Entries  
+  inflating: vrpn/client_src/directx_sound_client/directx_sound_client.cpp  
+  inflating: vrpn/client_src/directx_sound_client/directx_sound_client.dsp  
+  inflating: vrpn/client_src/directx_sound_client/directx_sound_client.dsw  
+   creating: vrpn/client_src/haptic/
+   creating: vrpn/client_src/haptic/CVS/
+ extracting: vrpn/client_src/haptic/CVS/Root  
+ extracting: vrpn/client_src/haptic/CVS/Repository  
+  inflating: vrpn/client_src/haptic/CVS/Entries  
+  inflating: vrpn/client_src/haptic/Makefile  
+  inflating: vrpn/client_src/haptic/README  
+  inflating: vrpn/client_src/haptic/drag-sphere.C  
+  inflating: vrpn/client_src/haptic/glvrpn.C  
+  inflating: vrpn/client_src/haptic/glwin.c  
+  inflating: vrpn/client_src/haptic/glwin.h  
+  inflating: vrpn/client_src/haptic/phantom-field.C  
+  inflating: vrpn/client_src/haptic/phantom-plane.C  
+  inflating: vrpn/client_src/haptic/phantom-wave.C  
+  inflating: vrpn/client_src/haptic/smdvrpn.C  
+  inflating: vrpn/client_src/haptic/testvrpn.C  
+   creating: vrpn/cmake/
+   creating: vrpn/cmake/CVS/
+ extracting: vrpn/cmake/CVS/Root     
+ extracting: vrpn/cmake/CVS/Repository  
+  inflating: vrpn/cmake/CVS/Entries  
+  inflating: vrpn/cmake/CheckMacHIDAPI.cmake  
+  inflating: vrpn/cmake/CheckMacHIDAPI.cpp  
+  inflating: vrpn/cmake/CleanDirectoryList.cmake  
+  inflating: vrpn/cmake/CleanLibraryList.cmake  
+  inflating: vrpn/cmake/FindDirectShow.cmake  
+  inflating: vrpn/cmake/FindGPM.cmake  
+  inflating: vrpn/cmake/FindMacHID.cmake  
+  inflating: vrpn/cmake/FindOpenHaptics.cmake  
+  inflating: vrpn/cmake/FindWiiUse.cmake  
+  inflating: vrpn/cmake/Findquatlib.cmake  
+  inflating: vrpn/cmake/FixWinInstallPrefix.cmake  
+  inflating: vrpn/cmake/GetForceIncludeDefinitions.cmake  
+  inflating: vrpn/cmake/ListCombinations.cmake  
+  inflating: vrpn/cmake/PrefixListGlob.cmake  
+  inflating: vrpn/cmake/ProgramFilesGlob.cmake  
+  inflating: vrpn/cmake/UseBackportedModules.cmake  
+   creating: vrpn/cmake/cmake-2.8.0-modules/
+   creating: vrpn/cmake/cmake-2.8.0-modules/CVS/
+ extracting: vrpn/cmake/cmake-2.8.0-modules/CVS/Root  
+  inflating: vrpn/cmake/cmake-2.8.0-modules/CVS/Repository  
+ extracting: vrpn/cmake/cmake-2.8.0-modules/CVS/Entries  
+  inflating: vrpn/cmake/cmake-2.8.0-modules/SelectLibraryConfigurations.cmake  
+   creating: vrpn/doxygen/
+   creating: vrpn/doxygen/CVS/
+ extracting: vrpn/doxygen/CVS/Root   
+ extracting: vrpn/doxygen/CVS/Repository  
+  inflating: vrpn/doxygen/CVS/Entries  
+ extracting: vrpn/doxygen/.cvsignore  
+  inflating: vrpn/doxygen/Doxyfile   
+   creating: vrpn/installers/
+   creating: vrpn/installers/CVS/
+ extracting: vrpn/installers/CVS/Root  
+ extracting: vrpn/installers/CVS/Repository  
+  inflating: vrpn/installers/CVS/Entries  
+   creating: vrpn/installers/Nikon_focus_control/
+   creating: vrpn/installers/Nikon_focus_control/CVS/
+ extracting: vrpn/installers/Nikon_focus_control/CVS/Root  
+ extracting: vrpn/installers/Nikon_focus_control/CVS/Repository  
+  inflating: vrpn/installers/Nikon_focus_control/CVS/Entries  
+  inflating: vrpn/installers/Nikon_focus_control/Nikon_focus_control.qsp  
+  inflating: vrpn/installers/Nikon_focus_control/nikon_artemis.cfg  
+  inflating: vrpn/installers/Nikon_focus_control/nikon_hercules.cfg  
+  inflating: vrpn/installers/Nikon_focus_control/vrpn_artemis.cfg  
+  inflating: vrpn/installers/Nikon_focus_control/vrpn_hercules.cfg  
+   creating: vrpn/installers/phantom_server/
+   creating: vrpn/installers/phantom_server/CVS/
+ extracting: vrpn/installers/phantom_server/CVS/Root  
+ extracting: vrpn/installers/phantom_server/CVS/Repository  
+  inflating: vrpn/installers/phantom_server/CVS/Entries  
+  inflating: vrpn/installers/phantom_server/autorun.inf  
+  inflating: vrpn/installers/phantom_server/phantom_server.qsp  
+  inflating: vrpn/installers/phantom_server/vrpn.cfg  
+  inflating: vrpn/installers/phantom_server/vrpn_Tracker.cfg  
+   creating: vrpn/installers/vrpn/
+   creating: vrpn/installers/vrpn/CVS/
+ extracting: vrpn/installers/vrpn/CVS/Root  
+ extracting: vrpn/installers/vrpn/CVS/Repository  
+  inflating: vrpn/installers/vrpn/CVS/Entries  
+ extracting: vrpn/installers/vrpn/autorun.inf  
+  inflating: vrpn/installers/vrpn/vrpn.qsp  
+   creating: vrpn/java_vrpn/
+   creating: vrpn/java_vrpn/CVS/
+ extracting: vrpn/java_vrpn/CVS/Root  
+ extracting: vrpn/java_vrpn/CVS/Repository  
+  inflating: vrpn/java_vrpn/CVS/Entries  
+  inflating: vrpn/java_vrpn/.classpath  
+  inflating: vrpn/java_vrpn/.cvsignore  
+  inflating: vrpn/java_vrpn/.project  
+  inflating: vrpn/java_vrpn/ChangeLog  
+  inflating: vrpn/java_vrpn/README.txt  
+  inflating: vrpn/java_vrpn/buildJAR.xml  
+  inflating: vrpn/java_vrpn/buildNativeHeaders.xml  
+  inflating: vrpn/java_vrpn/java_vrpn.cpp  
+  inflating: vrpn/java_vrpn/java_vrpn.dsp  
+  inflating: vrpn/java_vrpn/java_vrpn.dsw  
+  inflating: vrpn/java_vrpn/java_vrpn.h  
+  inflating: vrpn/java_vrpn/java_vrpn.sln  
+  inflating: vrpn/java_vrpn/java_vrpn.vcproj  
+  inflating: vrpn/java_vrpn/make_header.sh  
+  inflating: vrpn/java_vrpn/makefile  
+  inflating: vrpn/java_vrpn/vrpn_AnalogOutputRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_AnalogRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_AuxiliaryLoggerRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_ButtonRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_ForceDeviceRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_FunctionGeneratorRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_PoserRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_TempImagerRemote.cpp.obsolete  
+  inflating: vrpn/java_vrpn/vrpn_TextReceiver.cpp  
+  inflating: vrpn/java_vrpn/vrpn_TextSender.cpp  
+  inflating: vrpn/java_vrpn/vrpn_TrackerRemote.cpp  
+  inflating: vrpn/java_vrpn/vrpn_VRPNDevice.cpp  
+   creating: vrpn/java_vrpn/.settings/
+   creating: vrpn/java_vrpn/.settings/CVS/
+ extracting: vrpn/java_vrpn/.settings/CVS/Root  
+  inflating: vrpn/java_vrpn/.settings/CVS/Repository  
+ extracting: vrpn/java_vrpn/.settings/CVS/Entries  
+  inflating: vrpn/java_vrpn/.settings/org.eclipse.jdt.core.prefs  
+   creating: vrpn/java_vrpn/test/
+   creating: vrpn/java_vrpn/test/CVS/
+ extracting: vrpn/java_vrpn/test/CVS/Root  
+  inflating: vrpn/java_vrpn/test/CVS/Repository  
+  inflating: vrpn/java_vrpn/test/CVS/Entries  
+  inflating: vrpn/java_vrpn/test/.classpath  
+ extracting: vrpn/java_vrpn/test/.cvsignore  
+  inflating: vrpn/java_vrpn/test/.project  
+  inflating: vrpn/java_vrpn/test/AnalogListenerTest.java  
+  inflating: vrpn/java_vrpn/test/AnalogRandomValueGenerator.java  
+  inflating: vrpn/java_vrpn/test/AnalogTest.java  
+  inflating: vrpn/java_vrpn/test/AuxiliaryLoggerTest.java  
+  inflating: vrpn/java_vrpn/test/ButtonListenerTest.java  
+  inflating: vrpn/java_vrpn/test/ButtonTest.java  
+  inflating: vrpn/java_vrpn/test/ChangeLog  
+  inflating: vrpn/java_vrpn/test/ForceDeviceTest.java  
+  inflating: vrpn/java_vrpn/test/PoserTest.java  
+  inflating: vrpn/java_vrpn/test/PrintCereals.java  
+  inflating: vrpn/java_vrpn/test/TextReceiverTest.java  
+  inflating: vrpn/java_vrpn/test/TextSenderTest.java  
+  inflating: vrpn/java_vrpn/test/TrackerTest.java  
+  inflating: vrpn/java_vrpn/test/test.sln  
+  inflating: vrpn/java_vrpn/test/test.vjp  
+   creating: vrpn/java_vrpn/vrpn/
+   creating: vrpn/java_vrpn/vrpn/CVS/
+ extracting: vrpn/java_vrpn/vrpn/CVS/Root  
+  inflating: vrpn/java_vrpn/vrpn/CVS/Repository  
+  inflating: vrpn/java_vrpn/vrpn/CVS/Entries  
+  inflating: vrpn/java_vrpn/vrpn/AnalogOutputRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/AnalogRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/AnalogRemoteListener.java  
+  inflating: vrpn/java_vrpn/vrpn/AuxiliaryLoggerRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/ButtonRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/ButtonRemoteListener.java  
+  inflating: vrpn/java_vrpn/vrpn/ChangeLog.txt  
+  inflating: vrpn/java_vrpn/vrpn/ForceDeviceRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/ForceDeviceRemoteListener.java  
+  inflating: vrpn/java_vrpn/vrpn/FunctionGeneratorRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/PoserRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/TempImagerRemote.java.obsolete  
+  inflating: vrpn/java_vrpn/vrpn/TextReceiver.java  
+  inflating: vrpn/java_vrpn/vrpn/TextSender.java  
+  inflating: vrpn/java_vrpn/vrpn/TrackerRemote.java  
+  inflating: vrpn/java_vrpn/vrpn/TrackerRemoteListener.java  
+  inflating: vrpn/java_vrpn/vrpn/VRPN.java  
+  inflating: vrpn/java_vrpn/vrpn/VRPNDevice.java  
+   creating: vrpn/python_vrpn/
+   creating: vrpn/python_vrpn/CVS/
+ extracting: vrpn/python_vrpn/CVS/Root  
+ extracting: vrpn/python_vrpn/CVS/Repository  
+  inflating: vrpn/python_vrpn/CVS/Entries  
+  inflating: vrpn/python_vrpn/Makefile.python  
+  inflating: vrpn/python_vrpn/README  
+  inflating: vrpn/python_vrpn/client-only.i  
+  inflating: vrpn/python_vrpn/python-callback-wrapper.i  
+  inflating: vrpn/python_vrpn/vrpn_Analog.i  
+  inflating: vrpn/python_vrpn/vrpn_Analog_Output.i  
+  inflating: vrpn/python_vrpn/vrpn_Auxiliary_Logger.i  
+  inflating: vrpn/python_vrpn/vrpn_Button.i  
+  inflating: vrpn/python_vrpn/vrpn_Dial.i  
+  inflating: vrpn/python_vrpn/vrpn_ForceDevice.i  
+  inflating: vrpn/python_vrpn/vrpn_Poser.i  
+  inflating: vrpn/python_vrpn/vrpn_Text.i  
+  inflating: vrpn/python_vrpn/vrpn_Tracker.i  
+   creating: vrpn/server_src/
+   creating: vrpn/server_src/CVS/
+ extracting: vrpn/server_src/CVS/Root  
+ extracting: vrpn/server_src/CVS/Repository  
+  inflating: vrpn/server_src/CVS/Entries  
+  inflating: vrpn/server_src/.cvsignore  
+  inflating: vrpn/server_src/CMakeLists.txt  
+  inflating: vrpn/server_src/ChangeLog  
+ extracting: vrpn/server_src/LibertyLinuxUSB.tar.gz  
+  inflating: vrpn/server_src/Makefile  
+  inflating: vrpn/server_src/NIUtil.cpp  
+  inflating: vrpn/server_src/NIUtil.h  
+  inflating: vrpn/server_src/buzzForceField.C  
+  inflating: vrpn/server_src/buzzForceField.h  
+  inflating: vrpn/server_src/client_and_server.C  
+  inflating: vrpn/server_src/client_and_server.dsp  
+  inflating: vrpn/server_src/client_and_server.vcproj  
+  inflating: vrpn/server_src/clock_server.C  
+  inflating: vrpn/server_src/constraint.C  
+  inflating: vrpn/server_src/constraint.h  
+  inflating: vrpn/server_src/daq_server.C  
+  inflating: vrpn/server_src/daq_server.dsp  
+  inflating: vrpn/server_src/daq_server.vcproj  
+  inflating: vrpn/server_src/def.pl  
+  inflating: vrpn/server_src/directXFF.C  
+  inflating: vrpn/server_src/directXFF_server.dsp  
+  inflating: vrpn/server_src/forcefield.C  
+  inflating: vrpn/server_src/forcefield.h  
+  inflating: vrpn/server_src/forward.C  
+  inflating: vrpn/server_src/ghost.h  
+  inflating: vrpn/server_src/keycodes.txt  
+  inflating: vrpn/server_src/last_of_sequence.C  
+ extracting: vrpn/server_src/make_vrpn_libs_build.cpp  
+  inflating: vrpn/server_src/nidaqClient.cpp  
+  inflating: vrpn/server_src/nidaqServer.cpp  
+  inflating: vrpn/server_src/phantom_custom_effects.txt  
+  inflating: vrpn/server_src/plane.C  
+  inflating: vrpn/server_src/plane.h  
+  inflating: vrpn/server_src/sample_analog.C  
+  inflating: vrpn/server_src/sample_server.C  
+  inflating: vrpn/server_src/set_instruments_for_sound_server  
+  inflating: vrpn/server_src/testSharedObject.C  
+  inflating: vrpn/server_src/test_analogfly.C  
+  inflating: vrpn/server_src/test_analogfly.dsp  
+  inflating: vrpn/server_src/test_analogfly.vcproj  
+  inflating: vrpn/server_src/test_auxiliary_logger.C  
+  inflating: vrpn/server_src/test_auxiliary_logger.dsp  
+  inflating: vrpn/server_src/test_auxiliary_logger.vcproj  
+  inflating: vrpn/server_src/test_freespace.C  
+  inflating: vrpn/server_src/test_freespace.vcproj  
+  inflating: vrpn/server_src/test_logging.C  
+  inflating: vrpn/server_src/test_logging.dsp  
+  inflating: vrpn/server_src/test_logging.vcproj  
+  inflating: vrpn/server_src/test_mutex.C  
+  inflating: vrpn/server_src/test_peerMutex.C  
+  inflating: vrpn/server_src/test_radamec_spi.C  
+  inflating: vrpn/server_src/test_radamec_spi.dsp  
+  inflating: vrpn/server_src/test_radamec_spi.vcproj  
+  inflating: vrpn/server_src/test_rumble.C  
+  inflating: vrpn/server_src/test_rumble.vcproj  
+  inflating: vrpn/server_src/test_vrpn.C  
+  inflating: vrpn/server_src/test_vrpn.dsp  
+  inflating: vrpn/server_src/test_vrpn.vcproj  
+  inflating: vrpn/server_src/testimager_server.cpp  
+  inflating: vrpn/server_src/testimager_server.dsp  
+  inflating: vrpn/server_src/testimager_server.vcproj  
+  inflating: vrpn/server_src/text.C  
+  inflating: vrpn/server_src/texture_plane.C  
+  inflating: vrpn/server_src/texture_plane.h  
+  inflating: vrpn/server_src/trimesh.C  
+  inflating: vrpn/server_src/trimesh.h  
+  inflating: vrpn/server_src/vrpn.C  
+  inflating: vrpn/server_src/vrpn.cfg  
+  inflating: vrpn/server_src/vrpn.rc  
+  inflating: vrpn/server_src/vrpn_Generic_server_object.C  
+  inflating: vrpn/server_src/vrpn_Generic_server_object.h  
+  inflating: vrpn/server_src/vrpn_HID_device_watcher.cpp  
+  inflating: vrpn/server_src/vrpn_Phantom.C  
+  inflating: vrpn/server_src/vrpn_Phantom.h  
+  inflating: vrpn/server_src/vrpn_Tracker.cfg.UNC  
+  inflating: vrpn/server_src/vrpn_hid_device_watcher.dsp  
+  inflating: vrpn/server_src/vrpn_hid_device_watcher.vcproj  
+  inflating: vrpn/server_src/vrpn_phantom.dsp  
+  inflating: vrpn/server_src/vrpn_phantom.vcproj  
+  inflating: vrpn/server_src/vrpn_server.dsp  
+  inflating: vrpn/server_src/vrpn_server.vcproj  
+   creating: vrpn/server_src/aureal_sound_server/
+   creating: vrpn/server_src/aureal_sound_server/CVS/
+ extracting: vrpn/server_src/aureal_sound_server/CVS/Root  
+  inflating: vrpn/server_src/aureal_sound_server/CVS/Repository  
+  inflating: vrpn/server_src/aureal_sound_server/CVS/Entries  
+  inflating: vrpn/server_src/aureal_sound_server/aureal_sound_server.dsp  
+  inflating: vrpn/server_src/aureal_sound_server/aureal_sound_server.dsw  
+  inflating: vrpn/server_src/aureal_sound_server/vrpn_Sound_A3D.cpp  
+  inflating: vrpn/server_src/aureal_sound_server/vrpn_Sound_A3D.h  
+   creating: vrpn/server_src/ausim_sound_server/
+   creating: vrpn/server_src/ausim_sound_server/CVS/
+ extracting: vrpn/server_src/ausim_sound_server/CVS/Root  
+  inflating: vrpn/server_src/ausim_sound_server/CVS/Repository  
+  inflating: vrpn/server_src/ausim_sound_server/CVS/Entries  
+  inflating: vrpn/server_src/ausim_sound_server/README.txt  
+  inflating: vrpn/server_src/ausim_sound_server/ausim_sound_server.dsp  
+  inflating: vrpn/server_src/ausim_sound_server/ausim_sound_server.dsw  
+  inflating: vrpn/server_src/ausim_sound_server/vrpn.cfg  
+  inflating: vrpn/server_src/ausim_sound_server/vrpn_Sound_ASM.cpp  
+  inflating: vrpn/server_src/ausim_sound_server/vrpn_Sound_ASM.h  
+   creating: vrpn/server_src/directshow_video_server/
+   creating: vrpn/server_src/directshow_video_server/CVS/
+ extracting: vrpn/server_src/directshow_video_server/CVS/Root  
+  inflating: vrpn/server_src/directshow_video_server/CVS/Repository  
+  inflating: vrpn/server_src/directshow_video_server/CVS/Entries  
+ extracting: vrpn/server_src/directshow_video_server/.cvsignore  
+  inflating: vrpn/server_src/directshow_video_server/DirectShow_baseclasses.dsp  
+  inflating: vrpn/server_src/directshow_video_server/DirectShow_baseclasses.vcproj  
+  inflating: vrpn/server_src/directshow_video_server/directshow_video_server.dsp  
+  inflating: vrpn/server_src/directshow_video_server/directshow_video_server.vcproj  
+  inflating: vrpn/server_src/directshow_video_server/directx_camera_server.cpp  
+  inflating: vrpn/server_src/directshow_video_server/directx_camera_server.h  
+  inflating: vrpn/server_src/directshow_video_server/directx_video_imager_server.cpp  
+   creating: vrpn/server_src/directx_sound_server/
+   creating: vrpn/server_src/directx_sound_server/CVS/
+ extracting: vrpn/server_src/directx_sound_server/CVS/Root  
+  inflating: vrpn/server_src/directx_sound_server/CVS/Repository  
+  inflating: vrpn/server_src/directx_sound_server/CVS/Entries  
+  inflating: vrpn/server_src/directx_sound_server/directx_sound_server.dsp  
+  inflating: vrpn/server_src/directx_sound_server/directx_sound_server.dsw  
+  inflating: vrpn/server_src/directx_sound_server/vrpn_Sound_DX9.cpp  
+  inflating: vrpn/server_src/directx_sound_server/vrpn_Sound_DX9.h  
+   creating: vrpn/server_src/ghostEffects/
+   creating: vrpn/server_src/ghostEffects/CVS/
+ extracting: vrpn/server_src/ghostEffects/CVS/Root  
+ extracting: vrpn/server_src/ghostEffects/CVS/Repository  
+  inflating: vrpn/server_src/ghostEffects/CVS/Entries  
+  inflating: vrpn/server_src/ghostEffects/ChangeLog  
+  inflating: vrpn/server_src/ghostEffects/InstantBuzzEffect.cpp  
+  inflating: vrpn/server_src/ghostEffects/InstantBuzzEffect.h  
+   creating: vrpn/server_src/miles_sound_server/
+   creating: vrpn/server_src/miles_sound_server/CVS/
+ extracting: vrpn/server_src/miles_sound_server/CVS/Root  
+  inflating: vrpn/server_src/miles_sound_server/CVS/Repository  
+  inflating: vrpn/server_src/miles_sound_server/CVS/Entries  
+   creating: vrpn/server_src/miles_sound_server/v5.0/
+   creating: vrpn/server_src/miles_sound_server/v5.0/CVS/
+ extracting: vrpn/server_src/miles_sound_server/v5.0/CVS/Root  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/CVS/Repository  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/CVS/Entries  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/Console.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/Console.hpp  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/SoundServerWin32.aps  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/SoundServerWin32.rc  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/readme.txt  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/resource.h  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/sound_server.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/sound_server.dsp  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/sound_server.dsw  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/soundserver.ico  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/vrpn_Sound_Miles.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v5.0/vrpn_Sound_Miles.h  
+   creating: vrpn/server_src/miles_sound_server/v6.0/
+   creating: vrpn/server_src/miles_sound_server/v6.0/CVS/
+ extracting: vrpn/server_src/miles_sound_server/v6.0/CVS/Root  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/CVS/Repository  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/CVS/Entries  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/Console.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/Console.hpp  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/SoundServerWin32.aps  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/SoundServerWin32.rc  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/readme.txt  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/resource.h  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/sound_server.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/sound_server.dsp  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/sound_server.dsw  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/soundserver.ico  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/vrpn_Sound_Miles.cpp  
+  inflating: vrpn/server_src/miles_sound_server/v6.0/vrpn_Sound_Miles.h  
+   creating: vrpn/server_src/timecode_generator_server/
+   creating: vrpn/server_src/timecode_generator_server/CVS/
+ extracting: vrpn/server_src/timecode_generator_server/CVS/Root  
+  inflating: vrpn/server_src/timecode_generator_server/CVS/Repository  
+  inflating: vrpn/server_src/timecode_generator_server/CVS/Entries  
+ extracting: vrpn/server_src/timecode_generator_server/.cvsignore  
+  inflating: vrpn/server_src/timecode_generator_server/CMakeLists.txt  
+  inflating: vrpn/server_src/timecode_generator_server/ChangeLog  
+  inflating: vrpn/server_src/timecode_generator_server/Readme  
+  inflating: vrpn/server_src/timecode_generator_server/timecode_generator.dsp  
+  inflating: vrpn/server_src/timecode_generator_server/timecode_generator.vcproj  
+  inflating: vrpn/server_src/timecode_generator_server/vrpn_timecode_generator.cpp  
+  inflating: vrpn/server_src/timecode_generator_server/vrpn_timecode_generator.h  
+   creating: vrpn/util/
+   creating: vrpn/util/CVS/
+ extracting: vrpn/util/CVS/Root      
+ extracting: vrpn/util/CVS/Repository  
+  inflating: vrpn/util/CVS/Entries   
+   creating: vrpn/util/gen_rpc/
+   creating: vrpn/util/gen_rpc/CVS/
+ extracting: vrpn/util/gen_rpc/CVS/Root  
+ extracting: vrpn/util/gen_rpc/CVS/Repository  
+  inflating: vrpn/util/gen_rpc/CVS/Entries  
+  inflating: vrpn/util/gen_rpc/.cvsignore  
+  inflating: vrpn/util/gen_rpc/CMakeLists.txt  
+  inflating: vrpn/util/gen_rpc/ChangeLog  
+  inflating: vrpn/util/gen_rpc/gen_vrpn_rpc.pl  
+  inflating: vrpn/util/gen_rpc/main_test.C  
+  inflating: vrpn/util/gen_rpc/rpc_Test.vrpndef  
+  inflating: vrpn/util/gen_rpc/rpc_Test_Remote.Cdef  
+  inflating: vrpn/util/gen_rpc/rpc_Test_Remote.hdef  
+  inflating: vrpn/util/gen_rpc/test_gen_rpc.dsp  
+  inflating: vrpn/util/gen_rpc/test_gen_rpc.vcproj  
+   creating: vrpn/util/printStream/
+   creating: vrpn/util/printStream/CVS/
+ extracting: vrpn/util/printStream/CVS/Root  
+ extracting: vrpn/util/printStream/CVS/Repository  
+  inflating: vrpn/util/printStream/CVS/Entries  
+  inflating: vrpn/util/printStream/ChangeLog  
+  inflating: vrpn/util/printStream/vrpn_streamPrint.cpp  
+  inflating: vrpn/util/printStream/vrpn_streamPrint.dsp  
+  inflating: vrpn/util/printStream/vrpn_streamPrint.dsw  
+   creating: vrpn/vrpn_embedded/
+   creating: vrpn/vrpn_embedded/CVS/
+ extracting: vrpn/vrpn_embedded/CVS/Root  
+ extracting: vrpn/vrpn_embedded/CVS/Repository  
+  inflating: vrpn/vrpn_embedded/CVS/Entries  
+  inflating: vrpn/vrpn_embedded/vrpn_embedded.vcw  
+   creating: vrpn/vrpn_embedded/quat/
+   creating: vrpn/vrpn_embedded/quat/CVS/
+ extracting: vrpn/vrpn_embedded/quat/CVS/Root  
+ extracting: vrpn/vrpn_embedded/quat/CVS/Repository  
+ extracting: vrpn/vrpn_embedded/quat/CVS/Entries  
+  inflating: vrpn/vrpn_embedded/quat/quat.vcp  
+   creating: vrpn/vrpn_embedded/vrpn_client_library/
+   creating: vrpn/vrpn_embedded/vrpn_client_library/CVS/
+ extracting: vrpn/vrpn_embedded/vrpn_client_library/CVS/Root  
+  inflating: vrpn/vrpn_embedded/vrpn_client_library/CVS/Repository  
+ extracting: vrpn/vrpn_embedded/vrpn_client_library/CVS/Entries  
+  inflating: vrpn/vrpn_embedded/vrpn_client_library/vrpn_client_library.vcp  
+   creating: vrpn/vrpn_embedded/vrpn_print_devices/
+   creating: vrpn/vrpn_embedded/vrpn_print_devices/CVS/
+ extracting: vrpn/vrpn_embedded/vrpn_print_devices/CVS/Root  
+  inflating: vrpn/vrpn_embedded/vrpn_print_devices/CVS/Repository  
+ extracting: vrpn/vrpn_embedded/vrpn_print_devices/CVS/Entries  
+  inflating: vrpn/vrpn_embedded/vrpn_print_devices/vrpn_print_devices.vcp  
+  inflating: vrpn/CMakeLists.txt     
+  inflating: vrpn/vrpn_Connection.C  
+   creating: quat/
+   creating: quat/CVS/
+ extracting: quat/CVS/Root           
+ extracting: quat/CVS/Repository     
+  inflating: quat/CVS/Entries        
+  inflating: quat/.cvsignore         
+  inflating: quat/CMakeLists.txt     
+  inflating: quat/Makefile           
+  inflating: quat/Readme             
+  inflating: quat/matrix.c           
+  inflating: quat/quat.c             
+  inflating: quat/quat.h             
+  inflating: quat/quatlib.dsp        
+  inflating: quat/quatlib.dsw        
+  inflating: quat/quatlib.sln        
+  inflating: quat/quatlib.vcproj     
+  inflating: quat/vector.c           
+  inflating: quat/xyzquat.c          
+   creating: quat/testapps/
+   creating: quat/testapps/CVS/
+ extracting: quat/testapps/CVS/Root  
+ extracting: quat/testapps/CVS/Repository  
+  inflating: quat/testapps/CVS/Entries  
+  inflating: quat/testapps/CMakeLists.txt  
+  inflating: quat/testapps/eul.c     
+  inflating: quat/testapps/matrix_to_posquat.c  
+  inflating: quat/testapps/qmake.c   
+  inflating: quat/testapps/qmult.c   
+  inflating: quat/testapps/qxform.c  
+  inflating: quat/testapps/timer.c   
+~/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp/quat ~/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp ~/Packages/openvibe-0.16.1-svn3780-src/scripts
+mkdir pc_linux64
+gcc -m64 -fPIC -g -I.   -c -o quat.o quat.c
+gcc -m64 -fPIC -g -I.   -c -o matrix.o matrix.c
+gcc -m64 -fPIC -g -I.   -c -o vector.o vector.c
+gcc -m64 -fPIC -g -I.   -c -o xyzquat.o xyzquat.c
+Building libquat.a...
+ar ruv libquat.a quat.o matrix.o vector.o xyzquat.o
+ar: creating libquat.a
+a - quat.o
+a - matrix.o
+a - vector.o
+a - xyzquat.o
+ranlib libquat.a
+mv libquat.a *.o pc_linux64
+Makefile:638: pc_linux64/.depend: No such file or directory
+----------------------------------------------------------------
+-- Making dependency file. If you add files to the makefile,
+-- or add/remove includes from a .h or .C file, then you should
+-- remake the dependency file by typing "make depend"
+----------------------------------------------------------------
+mkdir pc_linux64
+/bin/sh -ec 'cc -m64 -fPIC -M -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  vrpn_Connection.C vrpn_Tracker.C vrpn_Button.C vrpn_ForceDevice.C vrpn_Shared.C vrpn_Analog.C vrpn_FileConnection.C vrpn_FileController.C vrpn_Forwarder.C vrpn_Text.C vrpn_ForwarderController.C vrpn_Serial.C vrpn_Dial.C vrpn_SharedObject.C vrpn_BaseClass.C vrpn_Sound.C vrpn_LamportClock.C vrpn_Mutex.C vrpn_RedundantTransmission.C vrpn_Imager.C vrpn_Analog_Output.C vrpn_Poser.C vrpn_Auxiliary_Logger.C \
+	    | sed '\''s/\(.*\.o[ ]*:[ ]*\)/pc_linux64\/\1/g'\'' > pc_linux64/.depend'
+----------------------------------------------------------------
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Connection.o -c vrpn_Connection.C
+vrpn_Connection.C: In member function ‘int vrpn_Log::saveLogSoFar()’:
+vrpn_Connection.C:664:39: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Tracker.o -c vrpn_Tracker.C
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1358:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1403:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_acc_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1447:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_unit2sensor_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1491:62: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_tracker2room_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1535:41: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_workspace_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1566:41: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Button.o -c vrpn_Button.C
+vrpn_Button.C: In static member function ‘static int vrpn_Button_Remote::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Button.C:836:39: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_ForceDevice.o -c vrpn_ForceDevice.C
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_force(const char*, vrpn_int32, vrpn_float64*)’:
+vrpn_ForceDevice.C:241:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_custom_effect(const char*, vrpn_int32, vrpn_uint32*, vrpn_float32**, vrpn_uint32*)’:
+vrpn_ForceDevice.C:286:34: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C:296:69: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_plane(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:404:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_surface_effects(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:459:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_vertex(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:505:69: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_normal(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:549:77: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_triangle(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:599:54: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_removeTriangle(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:642:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_updateTrimeshChanges(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:687:55: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setTrimeshType(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:728:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_trimeshTransform(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:768:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_addObject(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:804:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_addObjectExScene(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:838:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectPosition(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:875:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectOrientation(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:915:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectScale(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:955:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_removeObject(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:991:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_clearTrimesh(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1024:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_moveToParent(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:1058:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setHapticOrigin(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1100:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setHapticScale(const char*, vrpn_int32, vrpn_float32*)’:
+vrpn_ForceDevice.C:1138:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setSceneOrigin(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1179:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setObjectIsTouchable(const char*, vrpn_int32, vrpn_int32*, vrpn_bool*)’:
+vrpn_ForceDevice.C:1219:49: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_forcefield(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32 (*)[3], vrpn_float32*)’:
+vrpn_ForceDevice.C:1269:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_error(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1315:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_enableConstraint(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1399:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setConstraintMode(const char*, vrpn_int32, vrpn_ForceDevice::ConstraintGeometry*)’:
+vrpn_ForceDevice.C:1452:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setConstraintKSpring(const char*, vrpn_int32, vrpn_float32*)’:
+vrpn_ForceDevice.C:1581:38: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decodePoint(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1625:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static int vrpn_ForceDevice_Remote::handle_error_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_ForceDevice.C:2486:40: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Shared.o -c vrpn_Shared.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Analog.o -c vrpn_Analog.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_FileConnection.o -c vrpn_FileConnection.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_FileController.o -c vrpn_FileController.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Forwarder.o -c vrpn_Forwarder.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Text.o -c vrpn_Text.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_ForwarderController.o -c vrpn_ForwarderController.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Serial.o -c vrpn_Serial.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Dial.o -c vrpn_Dial.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_SharedObject.o -c vrpn_SharedObject.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_BaseClass.o -c vrpn_BaseClass.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Sound.o -c vrpn_Sound.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_LamportClock.o -c vrpn_LamportClock.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Mutex.o -c vrpn_Mutex.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_RedundantTransmission.o -c vrpn_RedundantTransmission.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Imager.o -c vrpn_Imager.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Analog_Output.o -c vrpn_Analog_Output.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Poser.o -c vrpn_Poser.C
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:303:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_relative_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:348:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:400:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_relative_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:437:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/vrpn_Auxiliary_Logger.o -c vrpn_Auxiliary_Logger.C
+ar ruv pc_linux64/libvrpn.a pc_linux64/vrpn_Connection.o pc_linux64/vrpn_Tracker.o pc_linux64/vrpn_Button.o pc_linux64/vrpn_ForceDevice.o pc_linux64/vrpn_Shared.o pc_linux64/vrpn_Analog.o pc_linux64/vrpn_FileConnection.o pc_linux64/vrpn_FileController.o pc_linux64/vrpn_Forwarder.o pc_linux64/vrpn_Text.o pc_linux64/vrpn_ForwarderController.o pc_linux64/vrpn_Serial.o pc_linux64/vrpn_Dial.o pc_linux64/vrpn_SharedObject.o pc_linux64/vrpn_BaseClass.o pc_linux64/vrpn_Sound.o pc_linux64/vrpn_LamportClock.o pc_linux64/vrpn_Mutex.o pc_linux64/vrpn_RedundantTransmission.o pc_linux64/vrpn_Imager.o pc_linux64/vrpn_Analog_Output.o pc_linux64/vrpn_Poser.o pc_linux64/vrpn_Auxiliary_Logger.o
+ar: creating pc_linux64/libvrpn.a
+a - pc_linux64/vrpn_Connection.o
+a - pc_linux64/vrpn_Tracker.o
+a - pc_linux64/vrpn_Button.o
+a - pc_linux64/vrpn_ForceDevice.o
+a - pc_linux64/vrpn_Shared.o
+a - pc_linux64/vrpn_Analog.o
+a - pc_linux64/vrpn_FileConnection.o
+a - pc_linux64/vrpn_FileController.o
+a - pc_linux64/vrpn_Forwarder.o
+a - pc_linux64/vrpn_Text.o
+a - pc_linux64/vrpn_ForwarderController.o
+a - pc_linux64/vrpn_Serial.o
+a - pc_linux64/vrpn_Dial.o
+a - pc_linux64/vrpn_SharedObject.o
+a - pc_linux64/vrpn_BaseClass.o
+a - pc_linux64/vrpn_Sound.o
+a - pc_linux64/vrpn_LamportClock.o
+a - pc_linux64/vrpn_Mutex.o
+a - pc_linux64/vrpn_RedundantTransmission.o
+a - pc_linux64/vrpn_Imager.o
+a - pc_linux64/vrpn_Analog_Output.o
+a - pc_linux64/vrpn_Poser.o
+a - pc_linux64/vrpn_Auxiliary_Logger.o
+ranlib pc_linux64/libvrpn.a
+mkdir pc_linux64/server
+make pc_linux64/libvrpnserver.a
+make[1]: Entering directory `/home/tom/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp/vrpn'
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Connection.o -c vrpn_Connection.C
+vrpn_Connection.C: In member function ‘int vrpn_Log::saveLogSoFar()’:
+vrpn_Connection.C:664:39: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker.o -c vrpn_Tracker.C
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1358:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1403:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_acc_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1447:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_unit2sensor_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1491:62: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_tracker2room_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1535:41: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Tracker.C: In static member function ‘static int vrpn_Tracker_Remote::handle_workspace_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Tracker.C:1566:41: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Button.o -c vrpn_Button.C
+vrpn_Button.C: In static member function ‘static int vrpn_Button_Remote::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Button.C:836:39: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_ForceDevice.o -c vrpn_ForceDevice.C
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_force(const char*, vrpn_int32, vrpn_float64*)’:
+vrpn_ForceDevice.C:241:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_custom_effect(const char*, vrpn_int32, vrpn_uint32*, vrpn_float32**, vrpn_uint32*)’:
+vrpn_ForceDevice.C:286:34: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C:296:69: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_plane(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:404:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_surface_effects(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:459:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_vertex(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:505:69: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_normal(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:549:77: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_triangle(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:599:54: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_removeTriangle(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:642:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_updateTrimeshChanges(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:687:55: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setTrimeshType(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:728:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_trimeshTransform(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:768:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_addObject(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:804:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_addObjectExScene(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:838:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectPosition(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:875:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectOrientation(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:915:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_objectScale(const char*, vrpn_int32, vrpn_int32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:955:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_removeObject(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:991:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_clearTrimesh(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1024:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_moveToParent(const char*, vrpn_int32, vrpn_int32*, vrpn_int32*)’:
+vrpn_ForceDevice.C:1058:51: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setHapticOrigin(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1100:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setHapticScale(const char*, vrpn_int32, vrpn_float32*)’:
+vrpn_ForceDevice.C:1138:35: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setSceneOrigin(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1179:33: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setObjectIsTouchable(const char*, vrpn_int32, vrpn_int32*, vrpn_bool*)’:
+vrpn_ForceDevice.C:1219:49: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_forcefield(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32 (*)[3], vrpn_float32*)’:
+vrpn_ForceDevice.C:1269:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_error(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1315:31: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_enableConstraint(const char*, vrpn_int32, vrpn_int32*)’:
+vrpn_ForceDevice.C:1399:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setConstraintMode(const char*, vrpn_int32, vrpn_ForceDevice::ConstraintGeometry*)’:
+vrpn_ForceDevice.C:1452:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decode_setConstraintKSpring(const char*, vrpn_int32, vrpn_float32*)’:
+vrpn_ForceDevice.C:1581:38: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static vrpn_int32 vrpn_ForceDevice::decodePoint(const char*, vrpn_int32, vrpn_float32*, vrpn_float32*, vrpn_float32*)’:
+vrpn_ForceDevice.C:1625:42: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_ForceDevice.C: In static member function ‘static int vrpn_ForceDevice_Remote::handle_error_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_ForceDevice.C:2486:40: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Shared.o -c vrpn_Shared.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Analog.o -c vrpn_Analog.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_FileConnection.o -c vrpn_FileConnection.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_FileController.o -c vrpn_FileController.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Forwarder.o -c vrpn_Forwarder.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Text.o -c vrpn_Text.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_ForwarderController.o -c vrpn_ForwarderController.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Serial.o -c vrpn_Serial.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Dial.o -c vrpn_Dial.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_SharedObject.o -c vrpn_SharedObject.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_BaseClass.o -c vrpn_BaseClass.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Sound.o -c vrpn_Sound.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_LamportClock.o -c vrpn_LamportClock.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Mutex.o -c vrpn_Mutex.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_RedundantTransmission.o -c vrpn_RedundantTransmission.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Imager.o -c vrpn_Imager.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Analog_Output.o -c vrpn_Analog_Output.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Poser.o -c vrpn_Poser.C
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:303:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_relative_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:348:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:400:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser.C: In static member function ‘static int vrpn_Poser_Server::handle_relative_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser.C:437:44: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Auxiliary_Logger.o -c vrpn_Auxiliary_Logger.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_3Space.o -c vrpn_3Space.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Flock.o -c vrpn_Flock.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_Fastrak.o -c vrpn_Tracker_Fastrak.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Dyna.o -c vrpn_Dyna.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Flock_Parallel.o -c vrpn_Flock_Parallel.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_UNC_Joystick.o -c vrpn_UNC_Joystick.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_JoyFly.o -c vrpn_JoyFly.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_sgibox.o -c vrpn_sgibox.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_CerealBox.o -c vrpn_CerealBox.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_AnalogFly.o -c vrpn_Tracker_AnalogFly.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_raw_sgibox.o -c vrpn_raw_sgibox.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Magellan.o -c vrpn_Magellan.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Analog_Radamec_SPI.o -c vrpn_Analog_Radamec_SPI.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_ImmersionBox.o -c vrpn_ImmersionBox.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Wanda.o -c vrpn_Wanda.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Analog_5dt.o -c vrpn_Analog_5dt.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Joylin.o -c vrpn_Joylin.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tng3.o -c vrpn_Tng3.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Spaceball.o -c vrpn_Spaceball.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_isense.o -c vrpn_Tracker_isense.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Zaber.o -c vrpn_Zaber.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_nikon_controls.o -c vrpn_nikon_controls.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_GlobalHapticsOrb.o -c vrpn_GlobalHapticsOrb.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_ButtonFly.o -c vrpn_Tracker_ButtonFly.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_ADBox.o -c vrpn_ADBox.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_VPJoystick.o -c vrpn_VPJoystick.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_Liberty.o -c vrpn_Tracker_Liberty.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_NationalInstruments.o -c vrpn_NationalInstruments.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Poser_Analog.o -c vrpn_Poser_Analog.C
+vrpn_Poser_Analog.C: In static member function ‘static int vrpn_Poser_Analog::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser_Analog.C:149:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser_Analog.C: In static member function ‘static int vrpn_Poser_Analog::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser_Analog.C:215:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_DTrack.o -c vrpn_Tracker_DTrack.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Poser_Tek4662.o -c vrpn_Poser_Tek4662.C
+vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::reset()’:
+vrpn_Poser_Tek4662.C:206:108: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser_Tek4662.C: In static member function ‘static int vrpn_Poser_Tek4662::handle_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser_Tek4662.C:413:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+vrpn_Poser_Tek4662.C: In static member function ‘static int vrpn_Poser_Tek4662::handle_vel_change_message(void*, vrpn_HANDLERPARAM)’:
+vrpn_Poser_Tek4662.C:452:47: warning: format ‘%d’ expects argument of type ‘int’, but argument 4 has type ‘long unsigned int’ [-Wformat]
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_Crossbow.o -c vrpn_Tracker_Crossbow.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_3DMouse.o -c vrpn_Tracker_3DMouse.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Mouse.o -c vrpn_Mouse.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_3DMicroscribe.o -c vrpn_3DMicroscribe.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_5DT16.o -c vrpn_5DT16.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_ForceDeviceServer.o -c vrpn_ForceDeviceServer.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Keyboard.o -c vrpn_Keyboard.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Analog_USDigital_A2.o -c vrpn_Analog_USDigital_A2.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Button_NI_DIO24.o -c vrpn_Button_NI_DIO24.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_PhaseSpace.o -c vrpn_Tracker_PhaseSpace.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Atmel.o -c vrpn_Atmel.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_inertiamouse.o -c vrpn_inertiamouse.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Event.o -c vrpn_Event.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Event_Analog.o -c vrpn_Event_Analog.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Event_Mouse.o -c vrpn_Event_Mouse.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Imager_Stream_Buffer.o -c vrpn_Imager_Stream_Buffer.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_HumanInterface.o -c vrpn_HumanInterface.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Xkeys.o -c vrpn_Xkeys.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_3DConnexion.o -c vrpn_3DConnexion.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_MotionNode.o -c vrpn_Tracker_MotionNode.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_NDI_Polaris.o -c vrpn_Tracker_NDI_Polaris.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_WiiMote.o -c vrpn_WiiMote.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Tracker_Isotrak.o -c vrpn_Tracker_Isotrak.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -o pc_linux64/server/vrpn_Freespace.o -c vrpn_Freespace.C
+ar ruv pc_linux64/libvrpnserver.a pc_linux64/server/vrpn_Connection.o pc_linux64/server/vrpn_Tracker.o pc_linux64/server/vrpn_Button.o pc_linux64/server/vrpn_ForceDevice.o pc_linux64/server/vrpn_Shared.o pc_linux64/server/vrpn_Analog.o pc_linux64/server/vrpn_FileConnection.o pc_linux64/server/vrpn_FileController.o pc_linux64/server/vrpn_Forwarder.o pc_linux64/server/vrpn_Text.o pc_linux64/server/vrpn_ForwarderController.o pc_linux64/server/vrpn_Serial.o pc_linux64/server/vrpn_Dial.o pc_linux64/server/vrpn_SharedObject.o pc_linux64/server/vrpn_BaseClass.o pc_linux64/server/vrpn_Sound.o pc_linux64/server/vrpn_LamportClock.o pc_linux64/server/vrpn_Mutex.o pc_linux64/server/vrpn_RedundantTransmission.o pc_linux64/server/vrpn_Imager.o pc_linux64/server/vrpn_Analog_Output.o pc_linux64/server/vrpn_Poser.o pc_linux64/server/vrpn_Auxiliary_Logger.o pc_linux64/server/vrpn_3Space.o pc_linux64/server/vrpn_Flock.o pc_linux64/server/vrpn_Tracker_Fastrak.o pc_linux64/server/vrpn_Dyna.o pc_linux64/server/vrpn_Flock_Parallel.o pc_linux64/server/vrpn_UNC_Joystick.o pc_linux64/server/vrpn_JoyFly.o pc_linux64/server/vrpn_sgibox.o pc_linux64/server/vrpn_CerealBox.o pc_linux64/server/vrpn_Tracker_AnalogFly.o pc_linux64/server/vrpn_raw_sgibox.o pc_linux64/server/vrpn_Magellan.o pc_linux64/server/vrpn_Analog_Radamec_SPI.o pc_linux64/server/vrpn_ImmersionBox.o pc_linux64/server/vrpn_Wanda.o pc_linux64/server/vrpn_Analog_5dt.o pc_linux64/server/vrpn_Joylin.o pc_linux64/server/vrpn_Tng3.o pc_linux64/server/vrpn_Spaceball.o pc_linux64/server/vrpn_Tracker_isense.o pc_linux64/server/vrpn_Zaber.o pc_linux64/server/vrpn_nikon_controls.o pc_linux64/server/vrpn_GlobalHapticsOrb.o pc_linux64/server/vrpn_Tracker_ButtonFly.o pc_linux64/server/vrpn_ADBox.o pc_linux64/server/vrpn_VPJoystick.o pc_linux64/server/vrpn_Tracker_Liberty.o pc_linux64/server/vrpn_NationalInstruments.o pc_linux64/server/vrpn_Poser_Analog.o pc_linux64/server/vrpn_Tracker_DTrack.o pc_linux64/server/vrpn_Poser_Tek4662.o pc_linux64/server/vrpn_Tracker_Crossbow.o pc_linux64/server/vrpn_Tracker_3DMouse.o pc_linux64/server/vrpn_Mouse.o pc_linux64/server/vrpn_3DMicroscribe.o pc_linux64/server/vrpn_5DT16.o pc_linux64/server/vrpn_ForceDeviceServer.o pc_linux64/server/vrpn_Keyboard.o pc_linux64/server/vrpn_Analog_USDigital_A2.o pc_linux64/server/vrpn_Button_NI_DIO24.o pc_linux64/server/vrpn_Tracker_PhaseSpace.o pc_linux64/server/vrpn_Atmel.o pc_linux64/server/vrpn_inertiamouse.o pc_linux64/server/vrpn_Event.o pc_linux64/server/vrpn_Event_Analog.o pc_linux64/server/vrpn_Event_Mouse.o pc_linux64/server/vrpn_Imager_Stream_Buffer.o pc_linux64/server/vrpn_HumanInterface.o pc_linux64/server/vrpn_Xkeys.o pc_linux64/server/vrpn_3DConnexion.o pc_linux64/server/vrpn_Tracker_MotionNode.o pc_linux64/server/vrpn_Tracker_NDI_Polaris.o pc_linux64/server/vrpn_WiiMote.o pc_linux64/server/vrpn_Tracker_Isotrak.o pc_linux64/server/vrpn_Freespace.o
+ar: creating pc_linux64/libvrpnserver.a
+a - pc_linux64/server/vrpn_Connection.o
+a - pc_linux64/server/vrpn_Tracker.o
+a - pc_linux64/server/vrpn_Button.o
+a - pc_linux64/server/vrpn_ForceDevice.o
+a - pc_linux64/server/vrpn_Shared.o
+a - pc_linux64/server/vrpn_Analog.o
+a - pc_linux64/server/vrpn_FileConnection.o
+a - pc_linux64/server/vrpn_FileController.o
+a - pc_linux64/server/vrpn_Forwarder.o
+a - pc_linux64/server/vrpn_Text.o
+a - pc_linux64/server/vrpn_ForwarderController.o
+a - pc_linux64/server/vrpn_Serial.o
+a - pc_linux64/server/vrpn_Dial.o
+a - pc_linux64/server/vrpn_SharedObject.o
+a - pc_linux64/server/vrpn_BaseClass.o
+a - pc_linux64/server/vrpn_Sound.o
+a - pc_linux64/server/vrpn_LamportClock.o
+a - pc_linux64/server/vrpn_Mutex.o
+a - pc_linux64/server/vrpn_RedundantTransmission.o
+a - pc_linux64/server/vrpn_Imager.o
+a - pc_linux64/server/vrpn_Analog_Output.o
+a - pc_linux64/server/vrpn_Poser.o
+a - pc_linux64/server/vrpn_Auxiliary_Logger.o
+a - pc_linux64/server/vrpn_3Space.o
+a - pc_linux64/server/vrpn_Flock.o
+a - pc_linux64/server/vrpn_Tracker_Fastrak.o
+a - pc_linux64/server/vrpn_Dyna.o
+a - pc_linux64/server/vrpn_Flock_Parallel.o
+a - pc_linux64/server/vrpn_UNC_Joystick.o
+a - pc_linux64/server/vrpn_JoyFly.o
+a - pc_linux64/server/vrpn_sgibox.o
+a - pc_linux64/server/vrpn_CerealBox.o
+a - pc_linux64/server/vrpn_Tracker_AnalogFly.o
+a - pc_linux64/server/vrpn_raw_sgibox.o
+a - pc_linux64/server/vrpn_Magellan.o
+a - pc_linux64/server/vrpn_Analog_Radamec_SPI.o
+a - pc_linux64/server/vrpn_ImmersionBox.o
+a - pc_linux64/server/vrpn_Wanda.o
+a - pc_linux64/server/vrpn_Analog_5dt.o
+a - pc_linux64/server/vrpn_Joylin.o
+a - pc_linux64/server/vrpn_Tng3.o
+a - pc_linux64/server/vrpn_Spaceball.o
+a - pc_linux64/server/vrpn_Tracker_isense.o
+a - pc_linux64/server/vrpn_Zaber.o
+a - pc_linux64/server/vrpn_nikon_controls.o
+a - pc_linux64/server/vrpn_GlobalHapticsOrb.o
+a - pc_linux64/server/vrpn_Tracker_ButtonFly.o
+a - pc_linux64/server/vrpn_ADBox.o
+a - pc_linux64/server/vrpn_VPJoystick.o
+a - pc_linux64/server/vrpn_Tracker_Liberty.o
+a - pc_linux64/server/vrpn_NationalInstruments.o
+a - pc_linux64/server/vrpn_Poser_Analog.o
+a - pc_linux64/server/vrpn_Tracker_DTrack.o
+a - pc_linux64/server/vrpn_Poser_Tek4662.o
+a - pc_linux64/server/vrpn_Tracker_Crossbow.o
+a - pc_linux64/server/vrpn_Tracker_3DMouse.o
+a - pc_linux64/server/vrpn_Mouse.o
+a - pc_linux64/server/vrpn_3DMicroscribe.o
+a - pc_linux64/server/vrpn_5DT16.o
+a - pc_linux64/server/vrpn_ForceDeviceServer.o
+a - pc_linux64/server/vrpn_Keyboard.o
+a - pc_linux64/server/vrpn_Analog_USDigital_A2.o
+a - pc_linux64/server/vrpn_Button_NI_DIO24.o
+a - pc_linux64/server/vrpn_Tracker_PhaseSpace.o
+a - pc_linux64/server/vrpn_Atmel.o
+a - pc_linux64/server/vrpn_inertiamouse.o
+a - pc_linux64/server/vrpn_Event.o
+a - pc_linux64/server/vrpn_Event_Analog.o
+a - pc_linux64/server/vrpn_Event_Mouse.o
+a - pc_linux64/server/vrpn_Imager_Stream_Buffer.o
+a - pc_linux64/server/vrpn_HumanInterface.o
+a - pc_linux64/server/vrpn_Xkeys.o
+a - pc_linux64/server/vrpn_3DConnexion.o
+a - pc_linux64/server/vrpn_Tracker_MotionNode.o
+a - pc_linux64/server/vrpn_Tracker_NDI_Polaris.o
+a - pc_linux64/server/vrpn_WiiMote.o
+a - pc_linux64/server/vrpn_Tracker_Isotrak.o
+a - pc_linux64/server/vrpn_Freespace.o
+ranlib pc_linux64/libvrpnserver.a
+make[1]: Leaving directory `/home/tom/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp/vrpn'
+mkdir pc_linux64/atmellib
+make pc_linux64/libvrpnatmel.a
+make[1]: Entering directory `/home/tom/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp/vrpn'
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/atmellib/../atmellib/vrpn_atmellib_iobasic.o -c atmellib/../atmellib/vrpn_atmellib_iobasic.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/atmellib/../atmellib/vrpn_atmellib_helper.o -c atmellib/../atmellib/vrpn_atmellib_helper.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/atmellib/../atmellib/vrpn_atmellib_openclose.o -c atmellib/../atmellib/vrpn_atmellib_openclose.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/atmellib/../atmellib/vrpn_atmellib_register.o -c atmellib/../atmellib/vrpn_atmellib_register.C
+cc -m64 -fPIC -I. -DUNIX -DLINUX -I../libfreespace/include -I../quat -I../../quat -I./atmellib  -DVRPN_CLIENT_ONLY -o pc_linux64/atmellib/../atmellib/vrpn_atmellib_tester.o -c atmellib/../atmellib/vrpn_atmellib_tester.C
+ar ruv pc_linux64/libvrpnatmel.a pc_linux64/atmellib/../atmellib/vrpn_atmellib_iobasic.o pc_linux64/atmellib/../atmellib/vrpn_atmellib_helper.o pc_linux64/atmellib/../atmellib/vrpn_atmellib_openclose.o pc_linux64/atmellib/../atmellib/vrpn_atmellib_register.o pc_linux64/atmellib/../atmellib/vrpn_atmellib_tester.o
+ar: creating pc_linux64/libvrpnatmel.a
+a - pc_linux64/atmellib/../atmellib/vrpn_atmellib_iobasic.o
+a - pc_linux64/atmellib/../atmellib/vrpn_atmellib_helper.o
+a - pc_linux64/atmellib/../atmellib/vrpn_atmellib_openclose.o
+a - pc_linux64/atmellib/../atmellib/vrpn_atmellib_register.o
+a - pc_linux64/atmellib/../atmellib/vrpn_atmellib_tester.o
+ranlib pc_linux64/libvrpnatmel.a
+make[1]: Leaving directory `/home/tom/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp/vrpn'
+~/Packages/openvibe-0.16.1-svn3780-src/dependencies/tmp ~/Packages/openvibe-0.16.1-svn3780-src/scripts
+~/Packages/openvibe-0.16.1-svn3780-src/scripts
